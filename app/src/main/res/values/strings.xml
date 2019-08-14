@@ -2,7 +2,7 @@
 
     <string name="action_settings">Settings</string>
     <string name="app_name">AppVerification</string>
-    <string name="FACEBOOK_APP_ID">829525227400327</string>
-    <string name="ACCOUNT_KIT_CLIENT_TOKEN">b64358821dc5d728a9cb228475a8e24d</string>
-    <string name="fb_login_protocol_scheme">fb829525227400327</string>
+    <string name="FACEBOOK_APP_ID"></string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN"></string>
+    <string name="fb_login_protocol_scheme"></string>
 </resources>
